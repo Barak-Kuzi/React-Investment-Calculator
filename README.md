@@ -17,8 +17,8 @@ Welcome to the React Investment Calculator repository! This application provides
 
 ## Installation
 
-1. **Clone the repository**: `git clone https://github.com/natikozel/investment-calculator.git`
-2. **Navigate to the project directory**: `cd investment-calculator`
+1. **Clone the repository**: `git clone https://github.com/Barak-Kuzi/React-Investment-Calculator.git`
+2. **Navigate to the project directory**: `cd React-Investment-Calculator`
 3. **Install dependencies**: `npm install`
 
 ## Usage
